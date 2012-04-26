@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Erhan\Desktop\tetribricks" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="web.config" publishTime="03/19/2011 20:30:33" />
+    <file relUrl="bin/System.Data.SqlServerCe.dll" publishTime="01/05/2011 22:37:06" />
+    <file relUrl="ClientBin/agTetribricks.xap" publishTime="03/19/2011 19:58:14" />
+    <file relUrl="App_Data/tbscores.sdf" publishTime="03/19/2011 19:45:10" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="11/10/2008 20:00:16" />
+    <file relUrl="crossdomain.xml" publishTime="11/10/2008 19:47:36" />
+    <file relUrl="Global.asax" publishTime="03/19/2011 19:04:45" />
+    <file relUrl="agScoreService.svc" publishTime="03/07/2009 00:30:49" />
+    <file relUrl="bin/agTetribricksWeb.pdb" publishTime="03/19/2011 20:30:43" />
+    <file relUrl="Silverlight.js" publishTime="08/28/2010 21:51:36" />
+    <file relUrl="Default.aspx" publishTime="08/28/2010 21:51:53" />
+    <file relUrl="bin/agTetribricksWeb.dll" publishTime="03/19/2011 20:30:43" />
+    <file relUrl="bin/System.Data.SqlServerCe.Entity.dll" publishTime="01/05/2011 22:37:00" />
+  </publishProfile>
+</publishData>

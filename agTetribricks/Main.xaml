@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="agTetribricks.Main"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"    
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:local="clr-namespace:agTetribricks"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+    >
+	<Grid Background="DarkGray">
+        <local:MainPage></local:MainPage>
+	</Grid>
+	
+    <!---->
+
+</UserControl>

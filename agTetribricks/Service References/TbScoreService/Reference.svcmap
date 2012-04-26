@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b3df378a-1a50-4c89-ab9d-f58b3ddc4427" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://www.hosca.com/tetribricks/agScoreService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="agScoreService1.wsdl" MetadataType="Wsdl" ID="83c54865-5e09-48c1-b856-b61099fc7b17" SourceId="1" SourceUrl="http://www.hosca.com/tetribricks/agScoreService.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="agScoreService5.xsd" MetadataType="Schema" ID="634853a5-ea41-4b23-916e-fac7c322a43f" SourceId="1" SourceUrl="http://www.hosca.com/tetribricks/agScoreService.svc?xsd=xsd0" />
+    <MetadataFile FileName="agScoreService51.xsd" MetadataType="Schema" ID="ea1c0656-1794-4132-a922-c8db13a0d2f1" SourceId="1" SourceUrl="http://www.hosca.com/tetribricks/agScoreService.svc?xsd=xsd1" />
+    <MetadataFile FileName="agScoreService52.xsd" MetadataType="Schema" ID="abb7b436-2f04-4b0b-b5df-1e0900a82038" SourceId="1" SourceUrl="http://www.hosca.com/tetribricks/agScoreService.svc?xsd=xsd4" />
+    <MetadataFile FileName="agScoreService53.xsd" MetadataType="Schema" ID="22d7d358-43c8-452f-abe6-907679f9057a" SourceId="1" SourceUrl="http://www.hosca.com/tetribricks/agScoreService.svc?xsd=xsd3" />
+    <MetadataFile FileName="agScoreService1.disco" MetadataType="Disco" ID="1839ac7d-9916-4c32-a731-50cd9e20abd6" SourceId="1" SourceUrl="http://www.hosca.com/tetribricks/agScoreService.svc?disco" />
+    <MetadataFile FileName="ScoreService1.wsdl" MetadataType="Wsdl" ID="ca0aff59-3d87-4fc3-96ca-21efb48acf03" SourceId="1" SourceUrl="http://www.hosca.com/tetribricks/agScoreService.svc?wsdl" />
+    <MetadataFile FileName="agScoreService54.xsd" MetadataType="Schema" ID="c34f4617-754b-499c-a985-a1c59e654ed4" SourceId="1" SourceUrl="http://www.hosca.com/tetribricks/agScoreService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

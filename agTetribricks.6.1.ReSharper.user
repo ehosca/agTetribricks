@@ -1,0 +1,119 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:TbModel.edmx" caret="0" fromTop="0" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:TbModel.Designer.cs" caret="4234" fromTop="0" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:agScoreService.svc.cs" caret="931" fromTop="28" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:TbScore.cs" caret="458" fromTop="17" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="70623A3D-921D-4B41-8D12-8C6A08067664/f:settings.txt" caret="733" fromTop="17" />
+      <File id="70623A3D-921D-4B41-8D12-8C6A08067664/f:ServiceReferences.ClientConfig" caret="733" fromTop="17" />
+      <File id="70623A3D-921D-4B41-8D12-8C6A08067664/f:MainPage.xaml.cs" caret="10596" fromTop="26" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:web.config" caret="1262" fromTop="22" />
+      <File id="70623A3D-921D-4B41-8D12-8C6A08067664/d:Service References/d:TbScoreService/f:Reference.cs" caret="26629" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:agScoreService.svc.cs" caret="0" fromTop="0" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:Global.asax.cs" caret="884" fromTop="8" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:TbModel.Designer.cs" caret="1872" fromTop="18" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:TbScore.cs" caret="0" fromTop="0" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:TbScore.cs" caret="458" fromTop="17" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:agScoreService.svc.cs" caret="941" fromTop="17" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:agScoreService.svc.cs" caret="941" fromTop="29" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:agScoreService.svc.cs" caret="941" fromTop="19" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:agScoreService.svc.cs" caret="941" fromTop="10" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:agScoreService.svc.cs" caret="941" fromTop="6" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:agScoreService.svc.cs" caret="888" fromTop="18" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:Global.asax.cs" caret="884" fromTop="4" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:web.config" caret="3610" fromTop="11" />
+      <File id="70623A3D-921D-4B41-8D12-8C6A08067664/f:ServiceReferences.ClientConfig" caret="733" fromTop="17" />
+      <File id="70623A3D-921D-4B41-8D12-8C6A08067664/f:MainPage.xaml.cs" caret="10538" fromTop="25" />
+      <File id="70623A3D-921D-4B41-8D12-8C6A08067664/f:ServiceReferences.ClientConfig" caret="733" fromTop="11" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:web.config" caret="3411" fromTop="22" />
+      <File id="70623A3D-921D-4B41-8D12-8C6A08067664/f:settings.txt" caret="733" fromTop="17" />
+      <File id="CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1/f:web.config" caret="1246" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="AppDomain`0" priority="0" />
+      <Item value="ScoreService`0" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="ScoreService" priority="0" />
+      <Item value="ss" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="score" priority="1" />
+      <Item value="Guid`0" priority="1" />
+      <Item value="using" priority="1" />
+      <Item value="tbscoresEntities" priority="1" />
+      <Item value="ent" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="tbscoresEntities`0" priority="0" />
+      <Item value="dc" priority="1" />
+      <Item value="if" priority="0" />
+      <Item value="highScoreValue" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="_highScore" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="CurrentDomain" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.AppDomain">
+      <Item value="SetData`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:agTetribricksWeb.ScoreService">
+      <Item value="GetLatestScores`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:agTetribricksWeb.TbScore">
+      <Item value="ID" priority="1" />
+      <Item value="ScoreValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:agTetribricksWeb.tbscoresEntities">
+      <Item value="AddToTbScores`0" priority="1" />
+      <Item value="SaveChanges`0" priority="1" />
+      <Item value="TbScores" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectSet`1">
+      <Item value="OrderByDescending`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedQueryable`1">
+      <Item value="Take`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ForEach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

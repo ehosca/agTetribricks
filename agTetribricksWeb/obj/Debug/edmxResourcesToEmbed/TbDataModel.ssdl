@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="agTetriBricksWeb.Model.Store" Alias="Self" Provider="System.Data.SqlServerCe.4.0" ProviderManifestToken="4.0" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="agTetriBricksWebModelStoreContainer" />
+  <!--Errors Found During Generation:
+            warning 6013: The table/view 'TbScore' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+            
+            <EntityType Name="TbScore">
+              <Property Name="EmailAddress" Type="nvarchar" MaxLength="100" />
+              <Property Name="ScoreDate" Type="datetime" />
+              <Property Name="ScoreValue" Type="int" />
+              <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+            </EntityType>-->
+</Schema>

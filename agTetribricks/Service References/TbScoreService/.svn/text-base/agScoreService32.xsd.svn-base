@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://www.hosca.com/tetribricks" elementFormDefault="qualified" targetNamespace="http://www.hosca.com/tetribricks" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://www.hosca.com/tetribricks/agScoreService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/agTetribricksWeb" />
+  <xs:element name="GetLatestScores">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetLatestScoresResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/agTetribricksWeb" minOccurs="0" name="GetLatestScoresResult" nillable="true" type="q1:ArrayOfTbScore" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SaveScore">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/agTetribricksWeb" minOccurs="0" name="score" nillable="true" type="q2:TbScore" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SaveScoreResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
