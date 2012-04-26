@@ -8,6 +8,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agTetribricks", "agTetribri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agTetribricksWeb", "agTetribricksWeb\agTetribricksWeb.csproj", "{CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitIgnore", "GitIgnore", "{E0B8C36B-3C58-4406-AA38-40E787E8412F}"
+	ProjectSection(SolutionItems) = preProject
+		vs.gitignore = vs.gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET
