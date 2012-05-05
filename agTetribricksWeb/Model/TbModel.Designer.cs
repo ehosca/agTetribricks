@@ -8,15 +8,15 @@
 //------------------------------------------------------------------------------
 
 using System;
+using System.ComponentModel;
+using System.Data.EntityClient;
 using System.Data.Objects;
 using System.Data.Objects.DataClasses;
-using System.Data.EntityClient;
-using System.ComponentModel;
-using System.Xml.Serialization;
+using System.Linq;
 using System.Runtime.Serialization;
+using System.Xml.Serialization;
 
 [assembly: EdmSchemaAttribute()]
-
 namespace agTetribricksWeb.Model
 {
     #region Contexts
@@ -82,6 +82,7 @@ namespace agTetribricksWeb.Model
         private ObjectSet<TbScore> _TbScores;
 
         #endregion
+
         #region AddTo Methods
     
         /// <summary>
@@ -93,11 +94,11 @@ namespace agTetribricksWeb.Model
         }
 
         #endregion
+
     }
-    
 
     #endregion
-    
+
     #region Entities
     
     /// <summary>
@@ -122,6 +123,7 @@ namespace agTetribricksWeb.Model
         }
 
         #endregion
+
         #region Primitive Properties
     
         /// <summary>
@@ -248,9 +250,11 @@ namespace agTetribricksWeb.Model
         partial void OnIDChanged();
 
         #endregion
+
     
     }
 
     #endregion
+
     
 }

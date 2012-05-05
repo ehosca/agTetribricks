@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agTetribricks", "agTetribricks\agTetribricks.csproj", "{70623A3D-921D-4B41-8D12-8C6A08067664}"
 	ProjectSection(ProjectDependencies) = postProject
 		{CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1} = {CBD63CE5-8811-4DEF-A0E4-6B7C097A5CC1}
